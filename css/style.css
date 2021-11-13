@@ -1,0 +1,23 @@
+html {
+    background-color: #D8BFD8;
+}
+
+body {
+    background-color: #EE82EE;
+    width: 600px;
+    border: 2px solid #8B008B;
+    padding: 2px 35px 30px 30px;
+    margin: 0 auto;
+}
+
+h1{
+    color: #8B008B;
+}
+
+img{
+    width: 50%;
+    margin: 0 auto;
+    padding: 10px 20px 20px 30px;
+   
+
+}
